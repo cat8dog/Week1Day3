@@ -7,7 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2857F7051AD7007E0079D3A6 /* Challenge 03.m in Sources */ = {isa = PBXBuildFile; fileRef = 2857F7041AD7007E0079D3A6 /* Challenge 03.m */; };
+		2857F7091AD70CD60079D3A6 /* Challenge 04.m in Sources */ = {isa = PBXBuildFile; fileRef = 2857F7081AD70CD60079D3A6 /* Challenge 04.m */; };
+		2857F70B1AD7126A0079D3A6 /* testtest.m in Sources */ = {isa = PBXBuildFile; fileRef = 2857F70A1AD7126A0079D3A6 /* testtest.m */; };
+		2857F70D1AD716D50079D3A6 /* Challenge 05.m in Sources */ = {isa = PBXBuildFile; fileRef = 2857F70C1AD716D50079D3A6 /* Challenge 05.m */; };
+		2857F70F1AD7195D0079D3A6 /* Challenge 06.m in Sources */ = {isa = PBXBuildFile; fileRef = 2857F70E1AD7195D0079D3A6 /* Challenge 06.m */; };
+		2857F7111AD722490079D3A6 /* loop.m in Sources */ = {isa = PBXBuildFile; fileRef = 2857F7101AD722490079D3A6 /* loop.m */; };
+		2857F7131AD724690079D3A6 /* Challenge 06forloop.m in Sources */ = {isa = PBXBuildFile; fileRef = 2857F7121AD724690079D3A6 /* Challenge 06forloop.m */; };
 		289F96951AD6281F00E0EF03 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 289F96941AD6281F00E0EF03 /* main.m */; };
+		289F969C1AD6A8A600E0EF03 /* Challenge 02.m in Sources */ = {isa = PBXBuildFile; fileRef = 289F969B1AD6A8A600E0EF03 /* Challenge 02.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +31,16 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2857F7041AD7007E0079D3A6 /* Challenge 03.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Challenge 03.m"; sourceTree = "<group>"; };
+		2857F7081AD70CD60079D3A6 /* Challenge 04.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "Challenge 04.m"; path = "../Challenge 04.m"; sourceTree = "<group>"; };
+		2857F70A1AD7126A0079D3A6 /* testtest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = testtest.m; sourceTree = "<group>"; };
+		2857F70C1AD716D50079D3A6 /* Challenge 05.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Challenge 05.m"; sourceTree = "<group>"; };
+		2857F70E1AD7195D0079D3A6 /* Challenge 06.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Challenge 06.m"; sourceTree = "<group>"; };
+		2857F7101AD722490079D3A6 /* loop.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = loop.m; sourceTree = "<group>"; };
+		2857F7121AD724690079D3A6 /* Challenge 06forloop.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Challenge 06forloop.m"; sourceTree = "<group>"; };
 		289F96911AD6281F00E0EF03 /* Week1Day3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Week1Day3; sourceTree = BUILT_PRODUCTS_DIR; };
 		289F96941AD6281F00E0EF03 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		289F969B1AD6A8A600E0EF03 /* Challenge 02.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Challenge 02.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +74,14 @@
 			isa = PBXGroup;
 			children = (
 				289F96941AD6281F00E0EF03 /* main.m */,
+				289F969B1AD6A8A600E0EF03 /* Challenge 02.m */,
+				2857F7041AD7007E0079D3A6 /* Challenge 03.m */,
+				2857F7081AD70CD60079D3A6 /* Challenge 04.m */,
+				2857F70A1AD7126A0079D3A6 /* testtest.m */,
+				2857F70C1AD716D50079D3A6 /* Challenge 05.m */,
+				2857F70E1AD7195D0079D3A6 /* Challenge 06.m */,
+				2857F7121AD724690079D3A6 /* Challenge 06forloop.m */,
+				2857F7101AD722490079D3A6 /* loop.m */,
 			);
 			path = Week1Day3;
 			sourceTree = "<group>";
@@ -118,7 +142,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2857F70F1AD7195D0079D3A6 /* Challenge 06.m in Sources */,
+				2857F7091AD70CD60079D3A6 /* Challenge 04.m in Sources */,
+				289F969C1AD6A8A600E0EF03 /* Challenge 02.m in Sources */,
+				2857F7111AD722490079D3A6 /* loop.m in Sources */,
+				2857F7051AD7007E0079D3A6 /* Challenge 03.m in Sources */,
+				2857F70B1AD7126A0079D3A6 /* testtest.m in Sources */,
 				289F96951AD6281F00E0EF03 /* main.m in Sources */,
+				2857F70D1AD716D50079D3A6 /* Challenge 05.m in Sources */,
+				2857F7131AD724690079D3A6 /* Challenge 06forloop.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -232,6 +264,7 @@
 				289F969A1AD6281F00E0EF03 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
