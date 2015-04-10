@@ -5,6 +5,7 @@ float convert(float valueToConvert) {
     float celcius = (valueToConvert - 32) / 1.8;
     //NSLog(@"%f", celcius);
     return celcius;
+    //just so a change is possible
 }
 int main15(int argc, const char * argv[]) {
     @autoreleasepool {
